@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "0e8288aa91359b2c7d25a0dfa4c9e6fd2c22b9886ff419cbdb42ee9a883c882f"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "temmypdf": {
+            "hashes": [
+                "sha256:67255c81d9dfcdec5197ff290143a316fbe89b521cc926bb06e61b89ccb9e667",
+                "sha256:89578bdb93495af2c9999526b0fcc32b53fb458cf76fd50850ecdaac412d72a6"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
+        }
+    },
+    "develop": {}
+}
